@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<featureModel>
+	<properties>
+		<graphics key="autolayoutconstraints" value="false"/>
+		<graphics key="legendautolayout" value="true"/>
+		<graphics key="showconstraints" value="true"/>
+		<graphics key="showshortnames" value="false"/>
+		<graphics key="layout" value="horizontal"/>
+		<graphics key="showcollapsedconstraints" value="true"/>
+		<graphics key="legendhidden" value="false"/>
+		<graphics key="layoutalgorithm" value="1"/>
+	</properties>
+	<struct>
+		<and mandatory="true" name="Licenses">
+			<and abstract="true" name="Patent_grant">
+				<and name="Grants_TM">
+					<feature name="private_use_Copy_left"/>
+				</and>
+				<and name="Copy_left">
+					<feature mandatory="true" name="Modification_Copyleft"/>
+					<feature mandatory="true" name="Sublicensing_Copyleft"/>
+					<feature mandatory="true" name="Ditribution_Copyleft"/>
+				</and>
+			</and>
+			<and name="Linking">
+				<and name="Concept_licenses1">
+					<feature mandatory="true" name="Distribution"/>
+					<feature mandatory="true" name="Modification"/>
+					<feature name="Sublicensing"/>
+				</and>
+			</and>
+			<and name="Private_use">
+				<and name="Manual_TM_grant">
+					<feature name="Manual_patent_grant"/>
+				</and>
+			</and>
+		</and>
+	</struct>
+	<constraints>
+		<rule>
+			<imp>
+				<var>Concept_licenses1</var>
+				<var>Private_use</var>
+			</imp>
+		</rule>
+		<rule>
+			<imp>
+				<var>Manual_TM_grant</var>
+				<var>Concept_licenses1</var>
+			</imp>
+		</rule>
+	</constraints>
+</featureModel>
