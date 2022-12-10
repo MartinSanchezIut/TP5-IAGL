@@ -2,197 +2,197 @@ digraph G {
 	rankdir=BT;
 subgraph BDD { 
 label="BDD";
-53 [shape=record,label="{Concept_BDD_53|exist_BDD2Licenses(C_Licenses_19)\nexist_BDD2Languages(C_Languages_34)\nexist_BDD2Languages(C_Languages_35)\nexist_BDD2Languages(C_Languages_43)\n|}"];
-54 [shape=record,label="{Concept_BDD_54|exist_BDD2Licenses(C_Licenses_22)\n|}"];
-55 [shape=record,label="{Concept_BDD_55|exist_BDD2Languages(C_Languages_36)\n|}"];
-56 [shape=record,label="{Concept_BDD_56|exist_BDD2Languages(C_Languages_39)\nexist_BDD2Languages(C_Languages_41)\nexist_BDD2Languages(C_Languages_44)\n|}"];
-57 [shape=record,label="{Concept_BDD_57|exist_BDD2Languages(C_Languages_40)\nexist_BDD2Languages(C_Languages_47)\nexist_BDD2Languages(C_Languages_49)\n|}"];
+51 [shape=record,label="{Concept_BDD_51|exist_BDD2Languages(C_Languages_32)\nexist_BDD2Languages(C_Languages_33)\nexist_BDD2Languages(C_Languages_41)\n|}"];
+52 [shape=record,label="{Concept_BDD_52|exist_BDD2Languages(C_Languages_34)\n|}"];
+53 [shape=record,label="{Concept_BDD_53|exist_BDD2Languages(C_Languages_37)\nexist_BDD2Languages(C_Languages_39)\nexist_BDD2Languages(C_Languages_42)\n|}"];
+54 [shape=record,label="{Concept_BDD_54|exist_BDD2Licenses(C_Licenses_20)\n|}"];
+55 [shape=record,label="{Concept_BDD_55|exist_BDD2Languages(C_Languages_38)\nexist_BDD2Languages(C_Languages_45)\nexist_BDD2Languages(C_Languages_47)\n|}"];
+56 [shape=record,label="{Concept_BDD_56|exist_BDD2Licenses(C_Licenses_25)\n|}"];
 10 [shape=record,label="{Concept_BDD_10|None\n|}"];
-58 [shape=record,label="{Concept_BDD_58||OpenAccess\n}"];
-59 [shape=record,label="{Concept_BDD_59|exist_BDD2Languages(C_Languages_37)\n|}"];
-60 [shape=record,label="{Concept_BDD_60|exist_BDD2Languages(C_Languages_38)\n|}"];
-61 [shape=record,label="{Concept_BDD_61|exist_BDD2Languages(C_Languages_42)\n|}"];
-62 [shape=record,label="{Concept_BDD_62||ObjectDatabase++\n}"];
-63 [shape=record,label="{Concept_BDD_63|exist_BDD2Languages(C_Languages_45)\n|}"];
-64 [shape=record,label="{Concept_BDD_64|exist_BDD2Licenses(C_Licenses_20)\nexist_BDD2Licenses(C_Licenses_21)\nexist_BDD2Licenses(C_Licenses_24)\n|}"];
-65 [shape=record,label="{Concept_BDD_65|exist_BDD2Languages(C_Languages_46)\n|}"];
-66 [shape=record,label="{Concept_BDD_66|exist_BDD2Licenses(C_Licenses_23)\nexist_BDD2Licenses(C_Licenses_25)\n|}"];
-67 [shape=record,label="{Concept_BDD_67|exist_BDD2Languages(C_Languages_48)\nexist_BDD2Languages(C_Languages_50)\n|}"];
-68 [shape=record,label="{Concept_BDD_68||Twig\n}"];
-69 [shape=record,label="{Concept_BDD_69|exist_BDD2Languages(C_Languages_51)\n|}"];
-70 [shape=record,label="{Concept_BDD_70||GemStone/S\n}"];
-71 [shape=record,label="{Concept_BDD_71|exist_BDD2Licenses(C_Licenses_26)\nexist_BDD2Licenses(C_Licenses_27)\n|}"];
-72 [shape=record,label="{Concept_BDD_72|exist_BDD2Languages(C_Languages_52)\n|}"];
-73 [shape=record,label="{Concept_BDD_73||NeoDatis ODB\n}"];
+57 [shape=record,label="{Concept_BDD_57||OpenAccess\n}"];
+58 [shape=record,label="{Concept_BDD_58|exist_BDD2Languages(C_Languages_35)\n|}"];
+59 [shape=record,label="{Concept_BDD_59|exist_BDD2Languages(C_Languages_36)\n|}"];
+60 [shape=record,label="{Concept_BDD_60|exist_BDD2Languages(C_Languages_40)\n|}"];
+61 [shape=record,label="{Concept_BDD_61||ObjectDatabase++\n}"];
+62 [shape=record,label="{Concept_BDD_62|exist_BDD2Languages(C_Languages_43)\n|}"];
+63 [shape=record,label="{Concept_BDD_63|exist_BDD2Languages(C_Languages_44)\n|}"];
+64 [shape=record,label="{Concept_BDD_64|exist_BDD2Licenses(C_Licenses_19)\n|}"];
+65 [shape=record,label="{Concept_BDD_65|exist_BDD2Languages(C_Languages_46)\nexist_BDD2Languages(C_Languages_48)\n|}"];
+66 [shape=record,label="{Concept_BDD_66|exist_BDD2Languages(C_Languages_49)\n|}"];
+67 [shape=record,label="{Concept_BDD_67||GemStone/S\n}"];
+68 [shape=record,label="{Concept_BDD_68|exist_BDD2Licenses(C_Licenses_21)\nexist_BDD2Licenses(C_Licenses_24)\nexist_BDD2Licenses(C_Licenses_26)\n|}"];
+69 [shape=record,label="{Concept_BDD_69|exist_BDD2Licenses(C_Licenses_22)\nexist_BDD2Licenses(C_Licenses_28)\n|}"];
+70 [shape=record,label="{Concept_BDD_70|exist_BDD2Languages(C_Languages_50)\n|}"];
 11 [shape=record,label="{Concept_BDD_11|XML_support\n|}"];
 13 [shape=record,label="{Concept_BDD_13|.NET_support\nSQL_subset\n|ObjectStore\n}"];
-74 [shape=record,label="{Concept_BDD_74|exist_BDD2Licenses(C_Licenses_28)\nexist_BDD2Licenses(C_Licenses_29)\n|}"];
-75 [shape=record,label="{Concept_BDD_75|exist_BDD2Licenses(C_Licenses_30)\nexist_BDD2Licenses(C_Licenses_31)\nexist_BDD2Licenses(C_Licenses_32)\n|}"];
-76 [shape=record,label="{Concept_BDD_76||Picolisp\n}"];
+71 [shape=record,label="{Concept_BDD_71|exist_BDD2Licenses(C_Licenses_29)\n|}"];
+72 [shape=record,label="{Concept_BDD_72||NeoDatis ODB\n}"];
+73 [shape=record,label="{Concept_BDD_73|exist_BDD2Licenses(C_Licenses_30)\nexist_BDD2Licenses(C_Licenses_31)\n|}"];
+74 [shape=record,label="{Concept_BDD_74||Picolisp\n}"];
 12 [shape=record,label="{Concept_BDD_12||ObjectFile\n}"];
 14 [shape=record,label="{Concept_BDD_14|SQL_superset\n|Objectivity/DB\n}"];
 15 [shape=record,label="{Concept_BDD_15|JPA\nJDO\n|ObjectDB\n}"];
 16 [shape=record,label="{Concept_BDD_16|DQL\n|ODABA\n}"];
-17 [shape=record,label="{Concept_BDD_17|REST\nSSJS\nexist_BDD2Licenses(C_Licenses_33)\n|WakandaDB\n}"];
+17 [shape=record,label="{Concept_BDD_17|REST\nSSJS\n|WakandaDB\n}"];
 18 [shape=record,label="{Concept_BDD_18|OQL\n|VersantObjectDatabase\n}"];
+75 [shape=record,label="{Concept_BDD_75|exist_BDD2Licenses(C_Licenses_27)\n|Twig\n}"];
+76 [shape=record,label="{Concept_BDD_76|exist_BDD2Licenses(C_Licenses_23)\n|}"];
+	52 -> 51
+	53 -> 51
+	10 -> 51
+	58 -> 51
+	55 -> 52
+	59 -> 52
+	64 -> 52
 	54 -> 53
 	55 -> 53
-	56 -> 53
-	10 -> 53
-	59 -> 53
-	58 -> 54
-	69 -> 54
-	71 -> 54
-	11 -> 54
-	13 -> 54
-	75 -> 54
+	56 -> 54
+	60 -> 54
 	57 -> 55
 	60 -> 55
-	64 -> 55
+	69 -> 55
+	11 -> 55
+	13 -> 55
 	57 -> 56
+	66 -> 56
 	69 -> 56
-	58 -> 57
-	61 -> 57
-	71 -> 57
-	11 -> 57
-	13 -> 57
-	58 -> 10
+	13 -> 56
+	57 -> 10
+	67 -> 10
 	68 -> 10
-	70 -> 10
-	75 -> 10
+	61 -> 57
+	59 -> 58
 	62 -> 58
-	12 -> 58
 	60 -> 59
 	63 -> 59
 	61 -> 60
 	65 -> 60
-	62 -> 61
-	67 -> 61
-	73 -> 62
-	15 -> 62
-	17 -> 62
+	72 -> 61
+	15 -> 61
+	17 -> 61
+	63 -> 62
+	66 -> 62
 	65 -> 63
-	69 -> 63
-	66 -> 64
+	74 -> 63
+	68 -> 64
 	71 -> 64
-	67 -> 65
-	76 -> 65
-	68 -> 66
-	74 -> 66
-	75 -> 66
-	68 -> 67
+	70 -> 65
+	15 -> 65
+	75 -> 65
+	67 -> 66
+	70 -> 66
 	72 -> 67
-	15 -> 67
-	70 -> 69
-	72 -> 69
-	73 -> 70
-	73 -> 71
-	74 -> 71
-	73 -> 72
-	14 -> 72
-	18 -> 72
+	73 -> 68
+	75 -> 68
+	71 -> 69
+	17 -> 69
+	72 -> 70
+	14 -> 70
+	18 -> 70
 	12 -> 11
 	14 -> 11
 	16 -> 13
-	16 -> 74
-	17 -> 74
+	72 -> 71
+	16 -> 71
+	76 -> 72
+	74 -> 73
+	12 -> 73
+	76 -> 74
+	76 -> 12
+	76 -> 14
+	76 -> 15
+	76 -> 16
+	76 -> 17
+	76 -> 18
 	76 -> 75
-	12 -> 75
 }
 subgraph Licenses { 
 label="Licenses";
-19 [shape=record,label="{Concept_Licenses_19|Patent grant\n|}"];
-20 [shape=record,label="{Concept_Licenses_20|Private use\n|}"];
-21 [shape=record,label="{Concept_Licenses_21|Distribution\nModification\n|}"];
-22 [shape=record,label="{Concept_Licenses_22|Grants TM\n|Proprietary\n}"];
-23 [shape=record,label="{Concept_Licenses_23|Linking\n|}"];
-24 [shape=record,label="{Concept_Licenses_24|Sublicensing\n|}"];
-25 [shape=record,label="{Concept_Licenses_25||Apache License\n}"];
-26 [shape=record,label="{Concept_Licenses_26|Distribution Copyleft\nModification Copyleft\nSublicensing Copyleft\n|}"];
-27 [shape=record,label="{Concept_Licenses_27||GNU Lesser General Public License(LGPL)\n}"];
-28 [shape=record,label="{Concept_Licenses_28||Mozilla Public License\n}"];
-29 [shape=record,label="{Concept_Licenses_29||GNU General Public License(GPL)\n}"];
-30 [shape=record,label="{Concept_Licenses_30|Manual TM grant\n|Eclipse Public License\n}"];
-31 [shape=record,label="{Concept_Licenses_31|Manual patent grant\n|Cryptix General License\n}"];
-32 [shape=record,label="{Concept_Licenses_32||BSD License\nMIT license / X11 license\n}"];
-33 [shape=record,label="{Concept_Licenses_33|Private use Copyleft\n|GNU Affero General Public License(AGPL)\n}"];
-	20 -> 19
-	22 -> 19
-	21 -> 20
-	30 -> 20
+19 [shape=record,label="{Concept_Licenses_19|Private use\n|}"];
+20 [shape=record,label="{Concept_Licenses_20|Patent Grant Automatic\n|}"];
+21 [shape=record,label="{Concept_Licenses_21|Linking Permissive\n|}"];
+22 [shape=record,label="{Concept_Licenses_22|Distribution Copyleft\nModification Copyleft\nSublicensing Copyleft\n|}"];
+23 [shape=record,label="{Concept_Licenses_23||Eclipse Public License\nMozilla Public License\n}"];
+24 [shape=record,label="{Concept_Licenses_24|Distribution Permissive\nModification Permissive\n|}"];
+25 [shape=record,label="{Concept_Licenses_25|TM Grant Automatic\n|Proprietary\n}"];
+26 [shape=record,label="{Concept_Licenses_26|Sublicensing Permissive\n|}"];
+27 [shape=record,label="{Concept_Licenses_27||Apache License\n}"];
+28 [shape=record,label="{Concept_Licenses_28|Linking Copyleft\n|GNU Affero General Public License(AGPL)\n}"];
+29 [shape=record,label="{Concept_Licenses_29||GNU General Public License(GPL)\nGNU Lesser General Public License(LGPL)\n}"];
+30 [shape=record,label="{Concept_Licenses_30|Manual patent grant\nManual TM grant\n|Cryptix General License\n}"];
+31 [shape=record,label="{Concept_Licenses_31||BSD License\nMIT license / X11 license\n}"];
+	21 -> 19
+	29 -> 19
+	22 -> 20
+	25 -> 20
+	27 -> 20
 	23 -> 21
 	24 -> 21
-	27 -> 22
-	30 -> 22
-	25 -> 23
-	31 -> 23
-	25 -> 24
+	23 -> 22
+	28 -> 22
 	26 -> 24
+	30 -> 24
 	28 -> 25
-	32 -> 25
 	27 -> 26
-	28 -> 26
-	29 -> 27
+	31 -> 26
 	29 -> 28
-	33 -> 29
 	31 -> 30
-	32 -> 31
 }
 subgraph Languages { 
 label="Languages";
-34 [shape=record,label="{Concept_Languages_34|Imperative\n|}"];
-35 [shape=record,label="{Concept_Languages_35|Object-oriented\n|}"];
-36 [shape=record,label="{Concept_Languages_36|Functional\n|}"];
-37 [shape=record,label="{Concept_Languages_37|Reflective\n|}"];
-38 [shape=record,label="{Concept_Languages_38||Python\n}"];
-39 [shape=record,label="{Concept_Languages_39|Standardized?\n|}"];
-40 [shape=record,label="{Concept_Languages_40||Lisp\n}"];
-41 [shape=record,label="{Concept_Languages_41||Dart\n}"];
-42 [shape=record,label="{Concept_Languages_42||JavaScript\nTScript\n}"];
-43 [shape=record,label="{Concept_Languages_43|Procedural\n|Bash\n}"];
-44 [shape=record,label="{Concept_Languages_44||C\n}"];
-45 [shape=record,label="{Concept_Languages_45||PHP\n}"];
-46 [shape=record,label="{Concept_Languages_46||Picolisp\n}"];
-47 [shape=record,label="{Concept_Languages_47|Generic\n|OCaml\n}"];
-48 [shape=record,label="{Concept_Languages_48||Kotlin\n}"];
-49 [shape=record,label="{Concept_Languages_49||C++\n}"];
-50 [shape=record,label="{Concept_Languages_50||Java\n}"];
-51 [shape=record,label="{Concept_Languages_51|Event-driven\n|Smalltalk\n}"];
-52 [shape=record,label="{Concept_Languages_52||C#\n}"];
-	35 -> 34
-	43 -> 34
-	37 -> 35
-	41 -> 35
-	47 -> 35
-	38 -> 36
+32 [shape=record,label="{Concept_Languages_32|Imperative\n|}"];
+33 [shape=record,label="{Concept_Languages_33|Object-oriented\n|}"];
+34 [shape=record,label="{Concept_Languages_34|Functional\n|}"];
+35 [shape=record,label="{Concept_Languages_35|Reflective\n|}"];
+36 [shape=record,label="{Concept_Languages_36||Python\n}"];
+37 [shape=record,label="{Concept_Languages_37|Standardized?\n|}"];
+38 [shape=record,label="{Concept_Languages_38||Lisp\n}"];
+39 [shape=record,label="{Concept_Languages_39||Dart\n}"];
+40 [shape=record,label="{Concept_Languages_40||JavaScript\nTScript\n}"];
+41 [shape=record,label="{Concept_Languages_41|Procedural\n|Bash\n}"];
+42 [shape=record,label="{Concept_Languages_42||C\n}"];
+43 [shape=record,label="{Concept_Languages_43||PHP\n}"];
+44 [shape=record,label="{Concept_Languages_44||Picolisp\n}"];
+45 [shape=record,label="{Concept_Languages_45|Generic\n|OCaml\n}"];
+46 [shape=record,label="{Concept_Languages_46||Kotlin\n}"];
+47 [shape=record,label="{Concept_Languages_47||C++\n}"];
+48 [shape=record,label="{Concept_Languages_48||Java\n}"];
+49 [shape=record,label="{Concept_Languages_49|Event-driven\n|Smalltalk\n}"];
+50 [shape=record,label="{Concept_Languages_50||C#\n}"];
+	33 -> 32
+	41 -> 32
+	35 -> 33
+	39 -> 33
+	45 -> 33
+	36 -> 34
+	38 -> 34
+	45 -> 34
+	36 -> 35
+	43 -> 35
 	40 -> 36
-	47 -> 36
+	44 -> 36
+	46 -> 36
 	38 -> 37
-	45 -> 37
-	42 -> 38
-	46 -> 38
-	48 -> 38
+	39 -> 37
+	42 -> 37
+	40 -> 38
+	47 -> 38
 	40 -> 39
-	41 -> 39
-	44 -> 39
-	42 -> 40
-	49 -> 40
+	47 -> 39
+	49 -> 39
+	48 -> 40
 	42 -> 41
-	49 -> 41
-	51 -> 41
-	50 -> 42
+	43 -> 41
+	47 -> 42
+	49 -> 42
 	44 -> 43
-	45 -> 43
-	49 -> 44
-	51 -> 44
+	49 -> 43
+	48 -> 44
 	46 -> 45
-	51 -> 45
-	50 -> 46
+	47 -> 45
+	48 -> 46
 	48 -> 47
-	49 -> 47
 	50 -> 48
 	50 -> 49
-	52 -> 50
-	52 -> 51
 }
 }

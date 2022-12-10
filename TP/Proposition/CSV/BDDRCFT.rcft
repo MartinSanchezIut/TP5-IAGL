@@ -15,16 +15,16 @@ FormalContext BDD
 |VersantObjectDatabase|||||||||||x|
 
 FormalContext Licenses
-||Linking|Distribution|Modification|Patent grant|Private use|Sublicensing|Grants TM|Distribution Copyleft|Modification Copyleft|Private use Copyleft|Sublicensing Copyleft|Manual patent grant|Manual TM grant|
+||Linking Permissive|Distribution Permissive|Modification Permissive|Patent Grant Automatic|Private use|Sublicensing Permissive|TM Grant Automatic|Linking Copyleft|Distribution Copyleft|Modification Copyleft|Sublicensing Copyleft|Manual patent grant|Manual TM grant|
 |Apache License|x|x|x|x|x|x||||||||
-|BSD License|x|x|x|x|x|x|x|||||x|x|
-|Cryptix General License|x|x|x|x|x||x|||||x|x|
-|Eclipse Public License||||x|x||x||||||x|
-|GNU Affero General Public License(AGPL)|x|x|x|x|x|x|x|x|x|x|x|||
-|GNU General Public License(GPL)|x|x|x|x|x|x|x|x|x||x|||
-|GNU Lesser General Public License(LGPL)||x|x|x|x|x|x|x|x||x|||
-|MIT license / X11 license|x|x|x|x|x|x|x|||||x|x|
-|Mozilla Public License|x|x|x|x|x|x||x|x||x|||
+|BSD License|x|x|x||x|x||||||x|x|
+|Cryptix General License|x|x|x||x|||||||x|x|
+|Eclipse Public License|x|||x|x||||x|x|x|||
+|GNU Affero General Public License(AGPL)||||x|||x|x|x|x|x|||
+|GNU General Public License(GPL)||||x|x||x|x|x|x|x|||
+|GNU Lesser General Public License(LGPL)||||x|x||x|x|x|x|x|||
+|MIT license / X11 license|x|x|x||x|x||||||x|x|
+|Mozilla Public License|x|||x|x||||x|x|x|||
 |Proprietary||||x|||x|||||||
 
 FormalContext Languages
